@@ -1,0 +1,84 @@
+body {
+	background-color: #989FCE;
+	color: #BF0603;
+	font-family: 'Sigmar One', cursive;
+    background-image: url(peoplecartoon.jpg);
+    background-image: 3px;
+    background-image: fixed;
+
+	
+	font-weight: bold;
+	font-size: 30px;
+
+}
+.container {
+	width: 90%;
+	margin: 0 auto; 
+}
+
+header {
+	background-color: ;
+}
+
+header h1 {
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+}
+nav ul li {
+	display: inline-block;
+	font-size: 30px;
+}
+
+li a:link, li a:hover, {
+	text-decoration: none;
+	color: #BF0603;
+}
+
+li a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	}
+
+img {
+	list-style-image: center;
+}
+
+section {
+	width: 50%;
+	padding: 15px
+	
+}
+
+footer {
+	background-color:  #272838;
+}
+
+.resize {
+	width: 25%;
+	height: 25%;
+	margin: 0 auto;
+	display: block;
+	
+
+}
+
+
+}
+.style {
+
+}
+ main ul li {
+ 	display: inline-block;
+ }
+ 	
+#drawing{
+	background-image: url(bird.jpg);
+}
+
+#draw01 {
+	text-align: center;
+}
